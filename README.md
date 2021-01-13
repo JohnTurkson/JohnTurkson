@@ -13,3 +13,5 @@ I'm a 3rd year CS student currently studying at The University of British Columb
 - Implemented a websocket server according to the RFC 6455 spec (<websocket-server>)
 - [Built a DSL in Kotlin]("https://github.com/JohnTurkson/readable-regular-expressions")
 - Wrote too many overcomplicated build.gradle.kts scripts
+
+Check out some of my projects below!
