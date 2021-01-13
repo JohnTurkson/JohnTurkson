@@ -2,9 +2,9 @@ I'm a 3rd year CS student currently studying at The University of British Columb
 
 ## Stuff that I'm currently working on
 - Building serverless APIs with AWS API Gateway and AWS Lambda
+- Building my own [AWS SDK](https://github.com/JohnTurkson/aws-tools) in order to better integrate with Kotlin's native language features
 - Implemented a Sigv4 signer from scratch in order to talk to AWS APIs in kotlin
-- Wrote an x-amz-json to application/json converter to seamlessly convert between data classes in kotlin and documents in DynamoDB
-- (Slowly) building my own [AWS SDK](https://github.com/JohnTurkson/aws-tools) in order to better integrate with Kotlin's native language features
+- Wrote an application/x-amz-json to application/json converter to automatically convert between data classes in Kotlin and documents in DynamoDB
 - Playing around with Jetpack Compose (Android + Desktop), Kotlin Multiplatform, and automation with Jetbrains Space
 
 ## Stuff that I've done in the past
