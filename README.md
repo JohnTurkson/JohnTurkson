@@ -1,6 +1,7 @@
-I'm a 3rd year CS student currently studying at The University of British Columbia.
+I'm a 4th year CS student currently studying at The University of British Columbia.
 
 ## Stuff that I'm currently working on
+- Making the [Later Android App](https://later.com/) more awesome
 - Building serverless APIs with AWS API Gateway and AWS Lambda
 - Building my own [AWS SDK](https://github.com/JohnTurkson/aws-tools) in order to better integrate with Kotlin's native language features
 - Implemented a Sigv4 signer from scratch in order to talk to AWS APIs in kotlin
